@@ -7,8 +7,6 @@ def home():
     mobile="2347036483444"
     return "These are the company contact details" + email + "," + mobile
 
-email + "," + mobile
-
 @app.route("/calculate")
 
 def calculate():
